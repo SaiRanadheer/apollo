@@ -1,0 +1,48 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Sai Ranadheer Gupta",
+      "speciality": "Cardiology",
+      "availability": {
+        "days": "1111111",
+        "start": 0,
+        "end": 10
+      },
+      "appointmentCost": 5000
+    },
+    {
+      "id": "2",
+      "name": "Koti Reddy",
+      "speciality": "Orthopedics",
+      "availability": {
+        "days": "1110110",
+        "start": 10,
+        "end": 21
+      },
+      "appointmentCost": 2500
+    },
+    {
+      "id": "3",
+      "name": "Nageswar",
+      "speciality": "Diabeties",
+      "availability": {
+        "days": "1111100",
+        "start": 8,
+        "end": 17
+      },
+      "appointmentCost": 2500
+    },
+    {
+      "id": "4",
+      "name": "Rahul",
+      "speciality": "ENT",
+      "availability": {
+        "days": "0011111",
+        "start": 10,
+        "end": 19
+      },
+      "appointmentCost": 2800
+    }
+  ]
+}
